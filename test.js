@@ -1,3 +1,4 @@
 function method(){
-    console.log('1234');
+    let i=0;
+    console.log(i);
 }
